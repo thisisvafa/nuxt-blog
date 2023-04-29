@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../nuxt-laravel-blog-server"
+		}
+	],
+	"settings": {}
+}
